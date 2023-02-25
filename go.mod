@@ -72,7 +72,7 @@ require (
 	gopkg.in/yaml.v2 v2.3.0
 	gotest.tools v2.2.0+incompatible
 	jaytaylor.com/html2text v0.0.0-20200412013138-3577fbdbcff7
-	k8s.io/apimachinery v0.0.0-20190223094358-dcb391cde5ca
+	k8s.io/apimachinery v0.15.7
 	k8s.io/client-go v10.0.0+incompatible
 )
 
@@ -157,7 +157,7 @@ require (
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/yaml.v3 v3.0.0-20200601152816-913338de1bd2 // indirect
 	k8s.io/api v0.0.0-20181204000039-89a74a8d264d // indirect
-	k8s.io/klog v0.2.0 // indirect
+	k8s.io/klog v0.3.1 // indirect
 	sigs.k8s.io/yaml v1.1.0 // indirect
 )
 
